@@ -16,7 +16,7 @@ Most of the data is collected from the following locations:
 
 _Updated as of __11/08/2019___
 
-![DW Schema](./img/dw_schema_20191108.PNG)
+![DW Schema](./img/schema_20191108.PNG)
 
 ## Database Technology
 
